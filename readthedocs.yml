@@ -1,0 +1,19 @@
+---
+
+version: 2
+
+formats:
+  - pdf
+  - epub
+
+build:
+  image: latest
+
+python:
+  version: 3.8
+  install:
+    - requirements: requirements.txt
+
+sphinx:
+  configuration: docs/conf.py
+  fail_on_warning: true
