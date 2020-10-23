@@ -73,7 +73,7 @@ authoritative source for MAL.
   </a>
 
 - - - -
-This is a project run by the [Software Systems Architecture and Security reseach
+This is a project run by the [Software Systems Architecture and Security research
 group](https://www.kth.se/nse/research/software-systems-architecture-and-security/)
 within the [Division of Network and Systems Engineering](https://kth.se/nse) at
 the Department of Computer Science at the School of [Electrical Engineering and
